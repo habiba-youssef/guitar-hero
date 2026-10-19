@@ -32,4 +32,6 @@ The project is designed to run on the development board with the connected compo
 
 ![Guitar Hero LCD interface mockups](docs/LCD_screen.png)
 
-[Gameplay flowchart](docs/flowchart.png) · [Initial class diagram](docs/ClassDiagram.png)
+![Gameplay flowchart](docs/flowchart.png) 
+
+![Initial class diagram](docs/ClassDiagram.png)
